@@ -582,8 +582,8 @@ Uri: https://risingtheme.com/html/demo-suruchi/assets/js/script.min.js
 File Name: C:\Downloaded Web Sites\risingtheme.com\html\demo-suruchi\assets\js\script.min.js
 Content Type: application/javascript
 
-Uri: https://risingtheme.com/html/demo-suruchi/index.html
-File Name: C:\Downloaded Web Sites\risingtheme.com\html\demo-suruchi\index.html
+Uri: https://risingtheme.com/html/demo-suruchi/index-2.html
+File Name: C:\Downloaded Web Sites\risingtheme.com\html\demo-suruchi\index-2.html
 Content Type: text/html
 
 Uri: https://risingtheme.com/html/demo-suruchi/suruchi/404.html
@@ -1178,8 +1178,8 @@ Uri: https://risingtheme.com/html/demo-suruchi/suruchi/index-3.html
 File Name: C:\Downloaded Web Sites\risingtheme.com\html\demo-suruchi\suruchi\index-3.html
 Content Type: text/html
 
-Uri: https://risingtheme.com/html/demo-suruchi/suruchi/index.html
-File Name: C:\Downloaded Web Sites\risingtheme.com\html\demo-suruchi\suruchi\index.html
+Uri: https://risingtheme.com/html/demo-suruchi/suruchi/index-2.html
+File Name: C:\Downloaded Web Sites\risingtheme.com\html\demo-suruchi\suruchi\index-2.html
 Content Type: text/html
 
 Uri: https://risingtheme.com/html/demo-suruchi/suruchi/login.html
